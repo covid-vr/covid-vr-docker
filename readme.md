@@ -1,7 +1,8 @@
 ## Build 
 In covid-vr-docker:
+```sh
 docker-compose build
-
+```
 
 ## Set path to data shared directory with docker image
 Set in /path/to/local/data:
